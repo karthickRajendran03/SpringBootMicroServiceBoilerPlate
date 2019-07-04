@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>Demo-Boilerplate</name>
-    <description>project for Spring Boot KeepNote Step5</description>
+    <description>project for Demo</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
